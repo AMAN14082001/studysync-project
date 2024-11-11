@@ -17,3 +17,10 @@
     --gray: #808080;
     --dark-gray: #555;
 }
+
+body {
+    height: 100vh;
+    text-align: center;
+    background-color: var(--background-color);
+    padding: 2rem;
+}
