@@ -43,3 +43,8 @@ body {
     text-decoration: none;
     gap: 0.625rem;
 }
+
+.logo-icon {
+    height: 5.875rem;
+    width: 1.938rem;
+}
