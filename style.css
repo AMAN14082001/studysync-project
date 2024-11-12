@@ -48,3 +48,8 @@ body {
     height: 5.875rem;
     width: 1.938rem;
 }
+
+.nav {
+    display: flex;
+    gap: 1.5rem;
+}
