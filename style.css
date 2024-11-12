@@ -60,3 +60,7 @@ body {
     font-weight: 600;
     transform: color 0.1s;
 }
+
+.nav-link:hover {
+    color: var(--link-color);
+}
