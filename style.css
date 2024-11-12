@@ -53,3 +53,10 @@ body {
     display: flex;
     gap: 1.5rem;
 }
+
+.nav-link {
+    color: #718096;
+    font-size: 1.125rem;
+    font-weight: 600;
+    transform: color 0.1s;
+}
