@@ -88,6 +88,17 @@ body {
 
 .menu-button {
     display: none;
+    border: none;
+    border-radius: 0.375rem;
+    background-color: var(--background-color);
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+@media screen and (max-width:768px) {
+    .menu-button {
+        display: none;
+    }
 }
 
 .menu-icon {
