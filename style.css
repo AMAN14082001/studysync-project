@@ -85,3 +85,12 @@ body {
 .contact-button:hover {
     background-color: #5254f8;
 }
+
+.menu-button {
+    display: none;
+}
+
+.menu-icon {
+    height: 1.5rem;
+    width: 1.5rem;
+}
