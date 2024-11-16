@@ -25,6 +25,10 @@ body {
     padding: 2rem;
 }
 
+.header {
+    border: 1px solid black;
+}
+
 .header-content {
     max-width: 1200px;
     margin: 0 auto;
