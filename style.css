@@ -119,3 +119,11 @@ body {
     align-items: center;
     margin: 0 auto;
 }
+
+.content-left {
+    text-align: center;
+    animation: slideFromLeft 1s ease forwards;
+    opacity: 0;
+}
+
+11:19
