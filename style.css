@@ -126,4 +126,16 @@ body {
     opacity: 0;
 }
 
-11:19
+@keyframes slideFromLeft {
+
+    0% {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+    
+}
