@@ -177,3 +177,17 @@ body {
     font-size: 1rem;
     font-weight: 600;
 }
+
+.tour-button {
+    background-color: var(--dark-gary);
+}
+
+.start-button:hover {
+    background-color: #5254fB;
+}
+
+.tour-button:hover {
+    background-color: var(--gray);
+}
+
+20:50
