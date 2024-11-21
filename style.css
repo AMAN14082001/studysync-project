@@ -156,3 +156,12 @@ body {
     color: var(--gray);
     font-size: 1.13rem;
 }
+
+.button-group {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+    margin-top: 1rem;
+    align-items: center;
+    justify-content: center;
+}
