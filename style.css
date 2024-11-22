@@ -195,3 +195,10 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.image-container {
+    border-radius: 0.625;
+    overflow: hidden;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    height: 57vh;
+}
