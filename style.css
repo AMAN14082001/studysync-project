@@ -190,4 +190,8 @@ body {
     background-color: var(--gray);
 }
 
-20:50
+.content-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
