@@ -219,6 +219,7 @@ body {
     }
     .section-title {
         padding-left: 0;
+        font-size: 4rem;
     }
     .button-group {
         justify-content: start;
@@ -228,3 +229,5 @@ body {
         font-size: 1rem;
     }
 }
+
+29:40
