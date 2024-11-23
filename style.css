@@ -213,4 +213,10 @@ body {
     .main-section {
         flex-direction: row;
     }
+    .content-left {
+        max-width: 50%;
+        text-align: left;
+    }
 }
+
+26:50
