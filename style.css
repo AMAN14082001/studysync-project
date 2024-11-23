@@ -224,4 +224,7 @@ body {
         justify-content: start;
         padding-left: 0;
     }
+    .section-label {
+        font-size: 1rem;
+    }
 }
