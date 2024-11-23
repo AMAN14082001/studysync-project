@@ -217,6 +217,7 @@ body {
         max-width: 50%;
         text-align: left;
     }
+    .section-title {
+        padding-left: 0;
+    }
 }
-
-26:50
