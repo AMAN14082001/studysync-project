@@ -220,4 +220,8 @@ body {
     .section-title {
         padding-left: 0;
     }
+    .button-group {
+        justify-content: start;
+        padding-left: 0;
+    }
 }
