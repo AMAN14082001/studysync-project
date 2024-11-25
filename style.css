@@ -234,4 +234,9 @@ body {
     .image-container {
         height: 67vh;
     }
+    .section-description {
+        font-size: 1.2rem;
+        color: var(--gray);
+        width: 78%;
+    }
 }
