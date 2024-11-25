@@ -231,4 +231,7 @@ body {
     .section-title {
         font-size: 3.8rem;
     }
+    .image-container {
+        height: 67vh;
+    }
 }
