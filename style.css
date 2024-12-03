@@ -270,3 +270,7 @@ body {
 .svg-img {
     height: 40px;
 }
+
+.logo-text {
+    font-size: 1rem;
+}
