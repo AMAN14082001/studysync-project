@@ -247,6 +247,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 2rem;
+    animation: slideFromLeft 1s ease forwards;
 }
 
 .company-grid {
