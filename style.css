@@ -334,6 +334,8 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #6d7890;
+    padding: 2rem;
+    border-radius: 1rem;
 }
 
 .icon-container {
@@ -349,4 +351,12 @@ body {
 .feature-svg {
     width: 1.5rem;
     height: 1.5rem;
+}
+
+.feature-title {
+    color: white;
+}
+
+.feature-description {
+    color: white;
 }
