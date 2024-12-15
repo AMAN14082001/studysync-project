@@ -328,6 +328,14 @@ body {
     margin-top: 1.3rem;
 }
 
+.feature-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #6d7890;
+}
+
 .icon-container {
     background-color: var(--background-color);
     height: 3rem;
