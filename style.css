@@ -327,6 +327,16 @@ body {
     grid-template-columns: repeat(2,1fr);
 }
 
+.icon-container {
+    background-color: var(--background-color);
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .feature-svg {
     width: 1.5rem;
     height: 1.5rem;
