@@ -376,3 +376,7 @@ body {
 .feature-card:nth-child(5) {
     background-color: #77b05d;
 }
+
+.feature-card:nth-child(6) {
+    background-color: #7d78b1;
+}
