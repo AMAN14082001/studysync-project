@@ -361,6 +361,10 @@ body {
     color: white;
 }
 
+.feature-card:nth-child(1) {
+    background-color: #4a98e2;
+}
+
 .feature-card:nth-child(2) {
     background-color: #FF6289;
 }
