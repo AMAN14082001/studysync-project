@@ -360,3 +360,7 @@ body {
 .feature-description {
     color: white;
 }
+
+.feature-card:nth-child(2) {
+    background-color: #FF6289;
+}
