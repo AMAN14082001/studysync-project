@@ -336,6 +336,7 @@ body {
     background-color: #6d7890;
     padding: 2rem;
     border-radius: 1rem;
+    gap: 1rem;
 }
 
 .icon-container {
