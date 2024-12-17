@@ -323,8 +323,8 @@ body {
 
 .feature-grid {
     display: grid;
-    gap: 1rem;
     grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
     margin-top: 1.3rem;
 }
 
@@ -334,7 +334,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #6d7890;
-    padding: 2rem;
+    padding: 1.6rem;
     border-radius: 1rem;
     gap: 1rem;
 }
@@ -362,6 +362,8 @@ body {
 
 .feature-title {
     color: white;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
 
 .feature-description {
