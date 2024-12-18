@@ -394,3 +394,7 @@ body {
 .feature-card:nth-child(6) {
     background-color: #7d78b1;
 }
+
+@media screen and (max-width:768px) {
+
+}
