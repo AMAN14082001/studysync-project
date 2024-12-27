@@ -408,6 +408,13 @@ body {
     max-width: 1280px;
 }
 
+.testimonial-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
 .testimonial-title {
     font-size: 1.875rem;
     font-weight: bold;
