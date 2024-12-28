@@ -422,7 +422,7 @@ body {
 
 .testimonial-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill,minmax(310px, 1fr));
     grid-gap: 2rem;
 }
 
@@ -432,7 +432,7 @@ body {
     border: 1px solid rgb(171, 163, 163);
     border-radius: 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    padding: 2rem;
+    padding: 0.5rem;
     gap: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
@@ -446,4 +446,8 @@ body {
 .testimonial-avatar img {
     height: 5rem;
     width: 5rem;
+}
+
+.testimonial-text {
+    font-size: 0.875rem;
 }
