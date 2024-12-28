@@ -429,18 +429,21 @@ body {
 .testimonial-card {
     display: flex;
     flex-direction: column;
-    border: 1px solid black;
+    border: 1px solid rgb(171, 163, 163);
     border-radius: 1rem;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     padding: 2rem;
-    gap: 1.6rem;
+    gap: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
-
 
 .testimonial-card:hover {
     transform: scale(1.05);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     border: 1px solid blue;
+}
+
+.testimonial-avatar img {
+    height: 5rem;
+    width: 5rem;
 }
