@@ -455,3 +455,7 @@ body {
 .testimonial-name {
     font-size: 1rem;
 }
+
+.testimonial-desc {
+    font-size: 0.875rem;
+}
