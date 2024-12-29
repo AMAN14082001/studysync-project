@@ -453,6 +453,7 @@ body {
 }
 
 .testimonial-name {
+    color: var(--primary-color);
     font-size: 1rem;
 }
 
