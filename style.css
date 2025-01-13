@@ -468,3 +468,10 @@ body {
     max-width: 1280px;
     height: 35vh;
 }
+
+.newsletter-content {
+    display: flex;
+    background-color: var(--gray);
+    height: 100%;
+}
+
