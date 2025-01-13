@@ -471,6 +471,7 @@ body {
 
 .newsletter-content {
     display: flex;
+    flex-direction: row;
     background-color: var(--gray);
     height: 100%;
 }
