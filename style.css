@@ -477,5 +477,7 @@ body {
 }
 
 .news-left {
+    height: 100%;
     width: 50%;
 }
+
