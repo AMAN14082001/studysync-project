@@ -476,6 +476,7 @@ body {
     background-color: var(--light-gray);
     height: 100%;
     border-radius: 8px;
+    overflow: hidden;
 }
 
 .news-left {
@@ -488,5 +489,4 @@ body {
     height: 100%;
     object-fit: cover;
     object-position: center;
-    border-radius: 8px;
 }
