@@ -475,6 +475,7 @@ body {
     flex-direction: row;
     background-color: var(--light-gray);
     height: 100%;
+    border-radius: 8px;
 }
 
 .news-left {
