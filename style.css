@@ -467,6 +467,7 @@ body {
     padding: 2rem;
     max-width: 1280px;
     height: 35vh;
+    margin: 0 auto;
 }
 
 .newsletter-content {
