@@ -495,7 +495,13 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    padding: 2rem;
+    padding: 3rem;
     justify-content: center;
     align-items: flex-start;
+}
+
+.news-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: var(--primary-color);
 }
