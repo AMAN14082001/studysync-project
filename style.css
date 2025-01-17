@@ -510,3 +510,8 @@ body {
     font-weight: bold;
     color: var(--primary-color);
 }
+
+.news-desc {
+    text-align: left;
+    color: #777;
+}
