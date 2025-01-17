@@ -495,9 +495,10 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    padding: 3rem;
+    padding: 0.5rem;
     justify-content: center;
     align-items: flex-start;
+    width: 50%;
 }
 
 .news-title {
