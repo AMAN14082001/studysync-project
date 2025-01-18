@@ -523,3 +523,14 @@ body {
     margin-bottom: 1rem;
     gap: 0.6rem;
 }
+
+.news-email {
+    background-color: var(--background-color);
+    width: 100%;
+    color: #333;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5rem 0.75rem;
+    
+}
