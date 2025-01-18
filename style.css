@@ -515,3 +515,11 @@ body {
     text-align: left;
     color: #777;
 }
+
+.news-form {
+    padding: 0 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+    gap: 0.6rem;
+}
