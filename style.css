@@ -534,3 +534,8 @@ body {
     padding: 0.5rem 0.75rem;
 
 }
+
+.news-email:focus {
+    background-color: #2563eb;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
