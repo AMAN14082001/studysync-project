@@ -539,3 +539,9 @@ body {
     background-color: #2563eb;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
+
+.news-button {
+    background-color: var(--primary-color);
+    color: var(--background-color);
+
+}
