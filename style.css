@@ -551,3 +551,7 @@ body {
 .news-send-button:hover {
     background-color: var(--link-color);
 }
+
+.privacy-policy {
+    padding: 0 3rem;
+}
