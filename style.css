@@ -555,3 +555,8 @@ body {
 .privacy-policy {
     padding: 0 3rem;
 }
+
+.news-link {
+    text-decoration: underline;
+    color: #2563eb;
+}
