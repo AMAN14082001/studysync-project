@@ -482,6 +482,7 @@ body {
 .news-left {
     height: 100%;
     width: 50%;
+    position: relative;
 }
 
 .news-left img {
