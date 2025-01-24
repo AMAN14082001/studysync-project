@@ -464,7 +464,6 @@ body {
 
 .newsletter-container {
     background-color: var(--background-color);
-    padding: 2rem;
     max-width: 1280px;
     height: 40vh;
     margin: 0 auto;
