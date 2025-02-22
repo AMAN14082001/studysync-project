@@ -594,6 +594,6 @@ body {
         padding-left: 10rem;
     }
     .footer-grid {
-        
+        align-self: center;
     }
 }
