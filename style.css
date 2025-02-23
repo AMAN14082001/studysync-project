@@ -585,6 +585,10 @@ body {
     }
 }
 
+.footer-copyright {
+    
+}
+
 @media screen and (max-width:1080px) {
     .footer {
         flex-direction: column;
