@@ -588,6 +588,7 @@ body {
 .footer-copyright {
     color: var(--gray);
     font-size: 0.75rem;
+    padding-bottom: 2rem;
 }
 
 @media screen and (max-width:1080px) {
