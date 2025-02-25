@@ -589,6 +589,9 @@ body {
 
 }
 
+.footer-grid-heading {
+}
+
 .footer-copyright {
     color: var(--gray);
     font-size: 0.75rem;
