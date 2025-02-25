@@ -585,6 +585,10 @@ body {
     }
 }
 
+.footer-links-list {
+    
+}
+
 .footer-copyright {
     color: var(--gray);
     font-size: 0.75rem;
