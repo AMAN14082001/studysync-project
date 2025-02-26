@@ -585,6 +585,10 @@ body {
     }
 }
 
+.footer {
+    
+}
+
 .footer-links-list {
     display: flex;
     flex-direction: column;
