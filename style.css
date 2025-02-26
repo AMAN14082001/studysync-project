@@ -586,7 +586,7 @@ body {
 }
 
 .footer {
-    
+    max-width: 1280px;
 }
 
 .footer-links-list {
