@@ -606,6 +606,10 @@ body {
     color: var(--text-color);
 }
 
+ul {
+    
+}
+
 .footer-copyright {
     color: var(--gray);
     font-size: 0.75rem;
