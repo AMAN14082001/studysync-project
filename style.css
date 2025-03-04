@@ -616,7 +616,7 @@ ul {
 }
 
 .footer-links-list {
-    
+    display: flex;
 }
 
 .footer-copyright {
