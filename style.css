@@ -594,7 +594,7 @@ body {
 }
 
 .footer-grid {
-    
+    display: grid;
 }
 
 .footer-grid-heading {
