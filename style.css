@@ -593,12 +593,6 @@ body {
     justify-content: space-between;
 }
 
-.footer-links-list {
-    display: flex;
-    flex-direction: column;
-    gap: 1.2rem;
-}
-
 .footer-grid-heading {
     margin-bottom: 1.65rem;
     font-size: 1.05rem;
