@@ -596,6 +596,7 @@ body {
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    width: 58;
 }
 
 .footer-grid-heading {
