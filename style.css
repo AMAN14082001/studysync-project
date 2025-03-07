@@ -596,7 +596,7 @@ body {
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    width: 58;
+    width: 58%;
     grid-gap: 5.67rem;
 }
 
