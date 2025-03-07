@@ -593,6 +593,10 @@ body {
     justify-content: space-between;
 }
 
+.footer-top {
+    
+}
+
 .footer-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
