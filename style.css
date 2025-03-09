@@ -603,7 +603,7 @@ body {
 }
 
 .comp-logo {
-
+    display: flex;
 }
 
 .footer-grid {
