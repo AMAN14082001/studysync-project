@@ -604,6 +604,7 @@ body {
 
 .comp-logo {
     display: flex;
+    justify-content: flex-start;
 }
 
 .footer-grid {
