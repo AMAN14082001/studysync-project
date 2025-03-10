@@ -596,6 +596,7 @@ body {
 .footer-top {
     width: 34%;
     display: flex;
+    flex-direction: column;
 }
 
 .logo-svg {
