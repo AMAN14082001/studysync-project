@@ -595,6 +595,7 @@ body {
 
 .footer-top {
     width: 34%;
+    display: flex;
 }
 
 .logo-svg {
