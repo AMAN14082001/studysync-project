@@ -597,6 +597,7 @@ body {
     width: 34%;
     display: flex;
     flex-direction: column;
+    gap: 1.65rem;
 }
 
 .logo-svg {
