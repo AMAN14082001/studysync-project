@@ -605,6 +605,10 @@ body {
     height: 6rem;
 }
 
+.logo-link {
+    
+}
+
 .comp-logo {
     display: flex;
     justify-content: flex-start;
