@@ -607,6 +607,7 @@ body {
 
 .logo-link {
     display: flex;
+    justify-content: center;
 }
 
 .comp-logo {
