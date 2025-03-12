@@ -608,6 +608,7 @@ body {
 .logo-link {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .comp-logo {
