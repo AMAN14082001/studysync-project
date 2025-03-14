@@ -620,6 +620,10 @@ body {
     height: 1.5rem;
 }
 
+.filler-text {
+    
+}
+
 .comp-logo {
     display: flex;
     justify-content: flex-start;
