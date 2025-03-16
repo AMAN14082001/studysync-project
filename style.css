@@ -627,6 +627,7 @@ body {
 
 .social {
     display: grid;
+    gap: 0.8rem;
 }
 
 .comp-logo {
