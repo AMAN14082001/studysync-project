@@ -626,7 +626,7 @@ body {
 }
 
 .social {
-    
+    display: grid;
 }
 
 .comp-logo {
